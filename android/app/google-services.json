@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740175511168",
+    "project_id": "smart-store-2e22d",
+    "storage_bucket": "smart-store-2e22d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740175511168:android:50bf2982a834b2bc6ab065",
+        "android_client_info": {
+          "package_name": "com.example.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740175511168-1hs0f3q49ilninq8fpeq5al1c9cq6n0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACjk0r36fmhQyfuzavpXUKvarTDj-yskk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740175511168-1hs0f3q49ilninq8fpeq5al1c9cq6n0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
